@@ -8,8 +8,8 @@ Command-line scripts for reading and updating story point estimates on Jira tick
 
 ## Scripts
 
-- [jira-read-storypoints.sh](jira-read-storypoints.sh) - Read story points for one or more tickets
-- [jira-update-storypoints.sh](jira-update-storypoints.sh) - Update story points for one or more tickets
+- [jira-read-storypoints.sh](https://github.com/nathanfox/dev.nathanfox.net/blob/master/scripts/jira-storypoints/jira-read-storypoints.sh) - Read story points for one or more tickets
+- [jira-update-storypoints.sh](https://github.com/nathanfox/dev.nathanfox.net/blob/master/scripts/jira-storypoints/jira-update-storypoints.sh) - Update story points for one or more tickets
 
 ## Requirements
 
